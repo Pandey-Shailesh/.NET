@@ -1,0 +1,15 @@
+D:\Github\.NET\Area\bin\Debug\net6.0\Area.exe
+D:\Github\.NET\Area\bin\Debug\net6.0\Area.deps.json
+D:\Github\.NET\Area\bin\Debug\net6.0\Area.runtimeconfig.json
+D:\Github\.NET\Area\bin\Debug\net6.0\Area.dll
+D:\Github\.NET\Area\bin\Debug\net6.0\Area.pdb
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.csproj.AssemblyReference.cache
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.dll
+D:\Github\.NET\Area\obj\Debug\net6.0\refint\Area.dll
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.pdb
+D:\Github\.NET\Area\obj\Debug\net6.0\Area.genruntimeconfig.cache
+D:\Github\.NET\Area\obj\Debug\net6.0\ref\Area.dll
