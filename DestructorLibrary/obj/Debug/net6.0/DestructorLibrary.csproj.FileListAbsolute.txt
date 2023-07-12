@@ -1,0 +1,12 @@
+D:\ConsoleApplications\DestructorLibrary\bin\Debug\net6.0\DestructorLibrary.deps.json
+D:\ConsoleApplications\DestructorLibrary\bin\Debug\net6.0\DestructorLibrary.dll
+D:\ConsoleApplications\DestructorLibrary\bin\Debug\net6.0\DestructorLibrary.pdb
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\DestructorLibrary.csproj.AssemblyReference.cache
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\DestructorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\DestructorLibrary.AssemblyInfoInputs.cache
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\DestructorLibrary.AssemblyInfo.cs
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\DestructorLibrary.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\DestructorLibrary.dll
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\refint\DestructorLibrary.dll
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\DestructorLibrary.pdb
+D:\ConsoleApplications\DestructorLibrary\obj\Debug\net6.0\ref\DestructorLibrary.dll
