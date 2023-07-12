@@ -1,0 +1,15 @@
+D:\ConsoleApplications\ConstructorExample\bin\Debug\net6.0\ConstructorExample.exe
+D:\ConsoleApplications\ConstructorExample\bin\Debug\net6.0\ConstructorExample.deps.json
+D:\ConsoleApplications\ConstructorExample\bin\Debug\net6.0\ConstructorExample.runtimeconfig.json
+D:\ConsoleApplications\ConstructorExample\bin\Debug\net6.0\ConstructorExample.dll
+D:\ConsoleApplications\ConstructorExample\bin\Debug\net6.0\ConstructorExample.pdb
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.csproj.AssemblyReference.cache
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.AssemblyInfoInputs.cache
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.AssemblyInfo.cs
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.dll
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\refint\ConstructorExample.dll
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.pdb
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ConstructorExample.genruntimeconfig.cache
+D:\ConsoleApplications\ConstructorExample\obj\Debug\net6.0\ref\ConstructorExample.dll

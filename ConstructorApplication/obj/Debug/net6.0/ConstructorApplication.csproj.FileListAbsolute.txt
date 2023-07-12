@@ -1,0 +1,15 @@
+D:\ConsoleApplications\ConstructorApplication\bin\Debug\net6.0\ConstructorApplication.exe
+D:\ConsoleApplications\ConstructorApplication\bin\Debug\net6.0\ConstructorApplication.deps.json
+D:\ConsoleApplications\ConstructorApplication\bin\Debug\net6.0\ConstructorApplication.runtimeconfig.json
+D:\ConsoleApplications\ConstructorApplication\bin\Debug\net6.0\ConstructorApplication.dll
+D:\ConsoleApplications\ConstructorApplication\bin\Debug\net6.0\ConstructorApplication.pdb
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.csproj.AssemblyReference.cache
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.AssemblyInfoInputs.cache
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.AssemblyInfo.cs
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.dll
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\refint\ConstructorApplication.dll
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.pdb
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ConstructorApplication.genruntimeconfig.cache
+D:\ConsoleApplications\ConstructorApplication\obj\Debug\net6.0\ref\ConstructorApplication.dll

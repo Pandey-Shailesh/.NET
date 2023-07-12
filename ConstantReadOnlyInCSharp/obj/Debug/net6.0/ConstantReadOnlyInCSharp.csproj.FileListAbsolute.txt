@@ -1,0 +1,15 @@
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\bin\Debug\net6.0\ConstantReadOnlyInCSharp.exe
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\bin\Debug\net6.0\ConstantReadOnlyInCSharp.deps.json
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\bin\Debug\net6.0\ConstantReadOnlyInCSharp.runtimeconfig.json
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\bin\Debug\net6.0\ConstantReadOnlyInCSharp.dll
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\bin\Debug\net6.0\ConstantReadOnlyInCSharp.pdb
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.csproj.AssemblyReference.cache
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.AssemblyInfoInputs.cache
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.AssemblyInfo.cs
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.dll
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\refint\ConstantReadOnlyInCSharp.dll
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.pdb
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ConstantReadOnlyInCSharp.genruntimeconfig.cache
+D:\ConsoleApplications\ConstantReadOnlyInCSharp\obj\Debug\net6.0\ref\ConstantReadOnlyInCSharp.dll

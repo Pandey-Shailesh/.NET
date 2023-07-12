@@ -1,0 +1,12 @@
+D:\ConsoleApplications\Product\bin\Debug\net6.0\Product.deps.json
+D:\ConsoleApplications\Product\bin\Debug\net6.0\Product.dll
+D:\ConsoleApplications\Product\bin\Debug\net6.0\Product.pdb
+D:\ConsoleApplications\Product\obj\Debug\net6.0\Product.csproj.AssemblyReference.cache
+D:\ConsoleApplications\Product\obj\Debug\net6.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\Product\obj\Debug\net6.0\Product.AssemblyInfoInputs.cache
+D:\ConsoleApplications\Product\obj\Debug\net6.0\Product.AssemblyInfo.cs
+D:\ConsoleApplications\Product\obj\Debug\net6.0\Product.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\Product\obj\Debug\net6.0\Product.dll
+D:\ConsoleApplications\Product\obj\Debug\net6.0\refint\Product.dll
+D:\ConsoleApplications\Product\obj\Debug\net6.0\Product.pdb
+D:\ConsoleApplications\Product\obj\Debug\net6.0\ref\Product.dll

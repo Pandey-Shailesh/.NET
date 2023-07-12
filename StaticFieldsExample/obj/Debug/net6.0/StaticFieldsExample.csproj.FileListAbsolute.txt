@@ -1,0 +1,15 @@
+D:\ConsoleApplications\StaticFieldsExample\bin\Debug\net6.0\StaticFieldsExample.exe
+D:\ConsoleApplications\StaticFieldsExample\bin\Debug\net6.0\StaticFieldsExample.deps.json
+D:\ConsoleApplications\StaticFieldsExample\bin\Debug\net6.0\StaticFieldsExample.runtimeconfig.json
+D:\ConsoleApplications\StaticFieldsExample\bin\Debug\net6.0\StaticFieldsExample.dll
+D:\ConsoleApplications\StaticFieldsExample\bin\Debug\net6.0\StaticFieldsExample.pdb
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.csproj.AssemblyReference.cache
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.AssemblyInfoInputs.cache
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.AssemblyInfo.cs
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.dll
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\refint\StaticFieldsExample.dll
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.pdb
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\StaticFieldsExample.genruntimeconfig.cache
+D:\ConsoleApplications\StaticFieldsExample\obj\Debug\net6.0\ref\StaticFieldsExample.dll

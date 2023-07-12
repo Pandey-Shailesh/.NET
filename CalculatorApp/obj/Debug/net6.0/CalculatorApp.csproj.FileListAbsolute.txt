@@ -1,0 +1,15 @@
+D:\ConsoleApplications\CalculatorApp\bin\Debug\net6.0\CalculatorApp.exe
+D:\ConsoleApplications\CalculatorApp\bin\Debug\net6.0\CalculatorApp.deps.json
+D:\ConsoleApplications\CalculatorApp\bin\Debug\net6.0\CalculatorApp.runtimeconfig.json
+D:\ConsoleApplications\CalculatorApp\bin\Debug\net6.0\CalculatorApp.dll
+D:\ConsoleApplications\CalculatorApp\bin\Debug\net6.0\CalculatorApp.pdb
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.AssemblyReference.cache
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfo.cs
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.dll
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\refint\CalculatorApp.dll
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.pdb
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\CalculatorApp.genruntimeconfig.cache
+D:\ConsoleApplications\CalculatorApp\obj\Debug\net6.0\ref\CalculatorApp.dll

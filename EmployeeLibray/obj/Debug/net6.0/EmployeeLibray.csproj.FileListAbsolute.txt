@@ -1,0 +1,12 @@
+D:\ConsoleApplications\EmployeeLibray\bin\Debug\net6.0\EmployeeLibray.deps.json
+D:\ConsoleApplications\EmployeeLibray\bin\Debug\net6.0\EmployeeLibray.dll
+D:\ConsoleApplications\EmployeeLibray\bin\Debug\net6.0\EmployeeLibray.pdb
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\EmployeeLibray.csproj.AssemblyReference.cache
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\EmployeeLibray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\EmployeeLibray.AssemblyInfoInputs.cache
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\EmployeeLibray.AssemblyInfo.cs
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\EmployeeLibray.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\EmployeeLibray.dll
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\refint\EmployeeLibray.dll
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\EmployeeLibray.pdb
+D:\ConsoleApplications\EmployeeLibray\obj\Debug\net6.0\ref\EmployeeLibray.dll

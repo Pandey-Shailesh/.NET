@@ -1,0 +1,15 @@
+D:\ConsoleApplications\CopyConstructor\bin\Debug\net6.0\CopyConstructor.exe
+D:\ConsoleApplications\CopyConstructor\bin\Debug\net6.0\CopyConstructor.deps.json
+D:\ConsoleApplications\CopyConstructor\bin\Debug\net6.0\CopyConstructor.runtimeconfig.json
+D:\ConsoleApplications\CopyConstructor\bin\Debug\net6.0\CopyConstructor.dll
+D:\ConsoleApplications\CopyConstructor\bin\Debug\net6.0\CopyConstructor.pdb
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.csproj.AssemblyReference.cache
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.AssemblyInfoInputs.cache
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.AssemblyInfo.cs
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.dll
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\refint\CopyConstructor.dll
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.pdb
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\CopyConstructor.genruntimeconfig.cache
+D:\ConsoleApplications\CopyConstructor\obj\Debug\net6.0\ref\CopyConstructor.dll
