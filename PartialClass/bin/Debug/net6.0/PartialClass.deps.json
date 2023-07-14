@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PartialClass/1.0.0": {
+        "dependencies": {
+          "PartialClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PartialClass.dll": {}
+        }
+      },
+      "PartialClassLibrary/1.0.0": {
+        "runtime": {
+          "PartialClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartialClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PartialClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

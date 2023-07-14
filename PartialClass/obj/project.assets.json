@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PartialClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PartialClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PartialClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartialClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PartialClassLibrary/PartialClassLibrary.csproj",
+      "msbuildProject": "../PartialClassLibrary/PartialClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PartialClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pande\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Github\\.NET\\PartialClass\\PartialClass.csproj",
+      "projectName": "PartialClass",
+      "projectPath": "D:\\Github\\.NET\\PartialClass\\PartialClass.csproj",
+      "packagesPath": "C:\\Users\\pande\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\.NET\\PartialClass\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Github\\.NET\\PartialClassLibrary\\PartialClassLibrary.csproj": {
+              "projectPath": "D:\\Github\\.NET\\PartialClassLibrary\\PartialClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

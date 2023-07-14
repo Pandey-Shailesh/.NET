@@ -1,0 +1,15 @@
+D:\Github\.NET\MakeFolder\bin\Debug\net6.0\MakeFolder.exe
+D:\Github\.NET\MakeFolder\bin\Debug\net6.0\MakeFolder.deps.json
+D:\Github\.NET\MakeFolder\bin\Debug\net6.0\MakeFolder.runtimeconfig.json
+D:\Github\.NET\MakeFolder\bin\Debug\net6.0\MakeFolder.dll
+D:\Github\.NET\MakeFolder\bin\Debug\net6.0\MakeFolder.pdb
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.csproj.AssemblyReference.cache
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.AssemblyInfoInputs.cache
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.AssemblyInfo.cs
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.csproj.CoreCompileInputs.cache
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.dll
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\refint\MakeFolder.dll
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.pdb
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\MakeFolder.genruntimeconfig.cache
+D:\Github\.NET\MakeFolder\obj\Debug\net6.0\ref\MakeFolder.dll

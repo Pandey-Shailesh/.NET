@@ -1,0 +1,15 @@
+D:\Github\.NET\FileHandling\bin\Debug\net6.0\FileHandling.exe
+D:\Github\.NET\FileHandling\bin\Debug\net6.0\FileHandling.deps.json
+D:\Github\.NET\FileHandling\bin\Debug\net6.0\FileHandling.runtimeconfig.json
+D:\Github\.NET\FileHandling\bin\Debug\net6.0\FileHandling.dll
+D:\Github\.NET\FileHandling\bin\Debug\net6.0\FileHandling.pdb
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.csproj.AssemblyReference.cache
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfoInputs.cache
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfo.cs
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.dll
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\refint\FileHandling.dll
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.pdb
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\FileHandling.genruntimeconfig.cache
+D:\Github\.NET\FileHandling\obj\Debug\net6.0\ref\FileHandling.dll
