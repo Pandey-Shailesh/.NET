@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+
+    <h1 style="color:crimson">
+        @ViewBag.Header
+    </h1>
+    @{
+        var employee = ViewBag.Employee;
+    }
+
+    <table>
+        <tr>
+            <td>Employee Id</td>
+            <td>@employee?.EmployeeId</td>
+        </tr>
+        <tr>
+            <td>Employee Age</td>
+            <td>@employee?.Age</td>
+        </tr>
+        <tr>
+            <td>Employee Name</td>
+            <td>@employee?.Name</td>
+        </tr>
+        <tr>
+            <td>Employee Gender</td>
+            <td>@employee?.Gender</td>
+        </tr>
+        <tr>
+            <td>Employee Department</td>
+            <td>@employee?.Department</td>
+        </tr>
+    </table>
+
+
+</body>
+</html>

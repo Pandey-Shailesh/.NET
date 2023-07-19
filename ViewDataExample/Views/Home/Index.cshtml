@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h1 style="color:red">@ViewData["Header"]</h1>
+    @{
+        var student = ViewData["Student"] as ViewDataExample.Models.Student;
+    }
+    <div >
+        Student Id: @student?.StudentId
+    </div>
+    <div>
+        Student Name: @student?.StudentName
+    </div>
+    <div>
+        Student Course: @student?.Course
+    </div>
+    <div>
+        Student Email: @student?.StudentEmail
+    </div>
+    <div>
+        Student Age: @student?.StudentAge
+    </div>
+</body>
+</html>

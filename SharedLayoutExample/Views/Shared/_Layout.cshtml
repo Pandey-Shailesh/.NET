@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewData["Title"]</title>
+</head>
+<body>
+    <table border="1" style="width100%;">
+        <tr>
+            <td colspan="3" style="height:150px; text-align:center; background-color:blanchedalmond">
+                <h1>Header Section </h1>
+            </td>
+        </tr>
+        <td style="width:200px;  text-align:center; background-color:aquamarine"> <h2>Left Side Contents</h2></td>
+        <td style="width:600px; height:300px; text-align:center; background-color:aquamarine"> @RenderBody()
+            <h1 style="color:red">@ViewData["Header"]</h1>
+            @{
+                var student = ViewData["Student"] as SharedLayoutExample.Models.Student;
+            }
+
+            <div >
+                Student ID: @student?.StudentId
+            </div>
+
+            <div>
+                Student Name: @student?.Name
+            </div>
+
+            <div>
+                Course Name: @student?.Course
+            </div>
+
+            <div>
+                Student Age: @student?.Age
+            </div>
+        
+        </td>
+        <td style="width:200px;  text-align:center; background-color:aquamarine"> <h2>Right Side Contents</h2></td>
+        <tr>
+            <td colspan="3" style="height:150px; text-align:center; background-color:blanchedalmond">
+                <h1>Footer Section </h1>
+            </td>
+        </tr>
+    </table>
+   
+</body>
+</html>

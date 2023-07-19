@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewData["Title"]</title>
+</head>
+<body>
+    <table border="1" style="width:100%;">
+        <tr>
+            <td colspan="3" style="height:70px;text-align:center;background-color:azure">
+                <h2>Header Section</h2>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:200px;text-align:center">
+                <h2>Left Side Contents</h2>
+            </td>
+            <td style="width:600px; height:200px;text-align:center">
+                @RenderBody()
+            </td>
+            <td style="width:200px;text-align:center">
+                <h2>Right Side Contents</h2>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" style="height:70px;text-align:center;background-color:azure">
+                <h2>Footer Section</h2>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
