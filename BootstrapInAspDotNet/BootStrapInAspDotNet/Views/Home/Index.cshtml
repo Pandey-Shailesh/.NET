@@ -1,0 +1,45 @@
+﻿@model List<BootStrapInAspDotNet.Models.Employee>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Employee ID</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Gender</th>
+                <th>Age</th>
+                <th>View</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.Name</td>
+                    <td>@employee.Department</td>
+                    <td>@employee.Gender</td>
+                    <td>@employee.Age</td>
+                   @* <td>
+                        <a href="/Home/Details/@employee.Id" class="btn btn-primary">View</a>
+                    </td>*@
+
+                    @*<td>
+                        @Html.ActionLink("View", "Details", "Home", new {Id
+                        =employee.Id})
+                    </td>*@
+
+                    <td>
+                        <a asp-controller="Home" asp-action="Details" asp-route-id="@employee.Id">View</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

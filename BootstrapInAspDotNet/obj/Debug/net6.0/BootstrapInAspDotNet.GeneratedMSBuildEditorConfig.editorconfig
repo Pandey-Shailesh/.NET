@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BootstrapInAspDotNet
+build_property.RootNamespace = BootstrapInAspDotNet
+build_property.ProjectDir = D:\Github\.NET\BootstrapInAspDotNet\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Github\.NET\BootstrapInAspDotNet
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Github/.NET/BootstrapInAspDotNet/BootStrapInAspDotNet/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9vdFN0cmFwSW5Bc3BEb3ROZXRcVmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/.NET/BootstrapInAspDotNet/BootStrapInAspDotNet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9vdFN0cmFwSW5Bc3BEb3ROZXRcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/.NET/BootstrapInAspDotNet/BootStrapInAspDotNet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9vdFN0cmFwSW5Bc3BEb3ROZXRcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/.NET/BootstrapInAspDotNet/BootStrapInAspDotNet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9vdFN0cmFwSW5Bc3BEb3ROZXRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/.NET/BootstrapInAspDotNet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/.NET/BootstrapInAspDotNet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

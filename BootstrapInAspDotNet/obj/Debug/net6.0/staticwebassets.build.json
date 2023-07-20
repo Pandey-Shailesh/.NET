@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "tJZOa8uG7zFfpv4nbQeQmnEbToFv1AQ3/baL9tNXLEQ=",
+  "Source": "BootstrapInAspDotNet",
+  "BasePath": "_content/BootstrapInAspDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BootstrapInAspDotNet\\wwwroot",
+      "Source": "BootstrapInAspDotNet",
+      "ContentRoot": "D:\\Github\\.NET\\BootstrapInAspDotNet\\wwwroot\\",
+      "BasePath": "_content/BootstrapInAspDotNet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

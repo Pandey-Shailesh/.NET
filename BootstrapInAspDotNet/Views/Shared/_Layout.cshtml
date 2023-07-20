@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/twitter-bootstrap/css/bootstrap.css"rel="stylesheet"/>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <script src="~/jquery/jquery.js"></script>
+    <script src="~/twitter-bootstrap/js/bootstrap.js"></script>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="">
+                <img src="~/images/cdac.jpeg" width="50px" height="50px" />
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="">Employee</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+</body>
+</html>
