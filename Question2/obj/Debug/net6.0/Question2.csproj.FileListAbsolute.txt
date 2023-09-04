@@ -1,0 +1,15 @@
+D:\Github\.NET\Question2\bin\Debug\net6.0\Question2.exe
+D:\Github\.NET\Question2\bin\Debug\net6.0\Question2.deps.json
+D:\Github\.NET\Question2\bin\Debug\net6.0\Question2.runtimeconfig.json
+D:\Github\.NET\Question2\bin\Debug\net6.0\Question2.dll
+D:\Github\.NET\Question2\bin\Debug\net6.0\Question2.pdb
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.csproj.AssemblyReference.cache
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.AssemblyInfoInputs.cache
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.AssemblyInfo.cs
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.csproj.CoreCompileInputs.cache
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.dll
+D:\Github\.NET\Question2\obj\Debug\net6.0\refint\Question2.dll
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.pdb
+D:\Github\.NET\Question2\obj\Debug\net6.0\Question2.genruntimeconfig.cache
+D:\Github\.NET\Question2\obj\Debug\net6.0\ref\Question2.dll

@@ -1,0 +1,15 @@
+D:\Github\.NET\ConsoleApp1\bin\Debug\net6.0\Question1.exe
+D:\Github\.NET\ConsoleApp1\bin\Debug\net6.0\Question1.deps.json
+D:\Github\.NET\ConsoleApp1\bin\Debug\net6.0\Question1.runtimeconfig.json
+D:\Github\.NET\ConsoleApp1\bin\Debug\net6.0\Question1.dll
+D:\Github\.NET\ConsoleApp1\bin\Debug\net6.0\Question1.pdb
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.csproj.AssemblyReference.cache
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.AssemblyInfoInputs.cache
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.AssemblyInfo.cs
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.csproj.CoreCompileInputs.cache
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.dll
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\refint\Question1.dll
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.pdb
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\Question1.genruntimeconfig.cache
+D:\Github\.NET\ConsoleApp1\obj\Debug\net6.0\ref\Question1.dll
